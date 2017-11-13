@@ -92,3 +92,120 @@
 #menu-1 .container-2 li{
     padding-left: 125px;
 }
+#menu-2{
+    /*position: absolute;*/
+    clear: both;
+    
+}
+#menu-2 h4,p{
+    display: inline-block;
+    margin: 0px;
+    /*border: 1px solid red;*/
+    color: #f6f6f6;
+}
+.fa-star-o, .fa-lock{
+   display: inline-block;
+    color: #f6f6f6;
+    font-weight: bold;
+    font-size: 13px;
+    padding: 18px 5px 10px 5px;
+}
+#menu-2 h4{
+    padding: 15px 5px 0px 15px;
+    font-size: 18px;
+}
+.borde{
+    border-left: 1px solid #f6f6f6;
+    height: 14px;
+    margin: 17px 9px;
+}
+#menu-2 p{
+    padding: 15px 5px 0px 5px;
+    font-size: 14px;
+    line-height: 20px;
+}
+#menu-2 a{
+    width: 120px;
+    height: 30px;
+    text-decoration: none;
+    color: #f6f6f6;
+    margin-left: 880px;
+}
+.fa-ellipsis-h{
+    color: #f6f6f6;
+    display: inline-block;
+    right: 125px;
+}
+#menu-2 u{
+    font-size: 14px;
+}
+#container-grande{
+    float: left;
+    background: #E2E4E6;
+    padding: 10px;
+    box-sizing: content-box;
+    margin-left: 10px;
+    border-radius: 3px;   
+}
+#container-3{
+    display: inline-block;
+    /*border: 1px solid;*/
+    border-radius: 3px;
+    width: 271px;
+    height: auto;
+    background-color: #E2E4E6;
+    margin-left: 15px;
+}
+#textLabel{
+    width: 271px;
+    height: 41px;
+    color: #fff;
+    background: rgba(0,0,0,.12);
+    padding: 10px 120px 5px 10px;
+    font-size: 15px;
+    border-radius: 3px;
+    margin: 50px 5px 5px 10px;
+    line-height: 40px;
+}
+#titulo{
+    border: 1px solid;
+    width: 243px;
+    border-radius: 3px;
+    border-color: #aaa;
+    margin: 5px;
+    background: rgba(0,0,0,.05);
+    padding: 7px;
+}
+#boton{
+    background: #5AAC44;
+    color: #fff;
+    padding: 4px 16px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    border: none;
+    border-radius: 3px;
+}
+.fa-times{
+    color: #999;
+    font-size: 20px;
+    padding: 4px;
+}
+#newLabel{
+    /*border: 1px solid;*/
+    padding: 4px;
+    font-weight: bold;
+}
+#titulo2{
+    width: 95%;
+    border-radius: 5px;
+    height: auto;
+    margin-bottom: 5px;
+}
+#btn{
+    background: #5AAC44;
+    color: #fff;
+    padding: 10px 4px;
+    border-radius: 3px;
+    margin: 0px 5px;
+    text-decoration: none;
+}
